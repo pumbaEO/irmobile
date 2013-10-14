@@ -9,7 +9,7 @@
 					<v8:content>Произвольный алгоритм</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment>Ссылка,СсылочныйОбъект,ТабличнаяЧастьСтрока,НесчитанныйНаборЗаписей,СчитанныйНаборЗаписей,РегистрЗапись</Comment>
+			<Comment/>
 			<FormType>Ordinary</FormType>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UsePurposes>

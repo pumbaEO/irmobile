@@ -10,7 +10,7 @@
 				</v8:item>
 			</Synonym>
 			<Comment>1.51</Comment>
-			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<IncludeHelpInContents>true</IncludeHelpInContents>
 			<IncludeInCommandInterface>false</IncludeInCommandInterface>
 			<Explanation/>
 			<Picture/>

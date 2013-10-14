@@ -863,12 +863,13 @@
 			<Form>ОтменитьПроведениеДокументов</Form>
 			<Form>ПеренумерацияОбъектов</Form>
 			<Form>ПодборИОбработка</Form>
-			<Form>ПометитьНаУдаление</Form>
+			<Form>ИзменитьПометкуНаУдаление</Form>
 			<Form>ПровестиДокументы</Form>
 			<Form>ПроизвольныйАлгоритм</Form>
 			<Form>Удалить</Form>
 			<Form>УстановкаРеквизитов</Form>
 			<Form>ШаблонОбработки</Form>
+			<Template>Обработки</Template>
 		</ChildObjects>
 	</DataProcessor>
 </MetaDataObject>

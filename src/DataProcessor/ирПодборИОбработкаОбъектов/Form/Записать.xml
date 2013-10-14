@@ -9,7 +9,7 @@
 					<v8:content>Записать</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment>СсылочныйОбъект,НесчитанныйНаборЗаписей,СчитанныйНаборЗаписей</Comment>
+			<Comment/>
 			<FormType>Ordinary</FormType>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UsePurposes>

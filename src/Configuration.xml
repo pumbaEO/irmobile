@@ -17,7 +17,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRole>Role.ирРазработчик</DefaultRole>
 			<Vendor>tormozit</Vendor>
-			<Version>2.82</Version>
+			<Version>2.89</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>true</UseManagedFormInOrdinaryApplication>
@@ -71,8 +71,10 @@ http://devtool1c.ucoz.ru/
 			<StyleItem>ирЦветФонаРасширенногоПредставленияЗначения</StyleItem>
 			<StyleItem>ирЦветФонаЧередованияСтрок</StyleItem>
 			<Style>ирОсновной</Style>
+			<CommonPicture>ирADO</CommonPicture>
 			<CommonPicture>ирCOM</CommonPicture>
 			<CommonPicture>ирHtml</CommonPicture>
+			<CommonPicture>ирWMI</CommonPicture>
 			<CommonPicture>ирАвтоКонтекстнаяПомощь</CommonPicture>
 			<CommonPicture>ирАлгоритм</CommonPicture>
 			<CommonPicture>ирАноним</CommonPicture>
@@ -80,6 +82,7 @@ http://devtool1c.ucoz.ru/
 			<CommonPicture>ирБулево</CommonPicture>
 			<CommonPicture>ирВлево</CommonPicture>
 			<CommonPicture>ирВложенныйЗапрос</CommonPicture>
+			<CommonPicture>ирВолшебство1</CommonPicture>
 			<CommonPicture>ирВопрос</CommonPicture>
 			<CommonPicture>ирВправо</CommonPicture>
 			<CommonPicture>ирВставить</CommonPicture>
@@ -140,9 +143,11 @@ http://devtool1c.ucoz.ru/
 			<CommonPicture>ирПредприятие1С8</CommonPicture>
 			<CommonPicture>ирРедактироватьОбъектБД</CommonPicture>
 			<CommonPicture>ирРедакторСтроковогоЛитерала</CommonPicture>
+			<CommonPicture>ирРеквизит</CommonPicture>
 			<CommonPicture>ирСвертка</CommonPicture>
 			<CommonPicture>ирСвязаннаяТаблица</CommonPicture>
 			<CommonPicture>ирСинтаксПомощник</CommonPicture>
+			<CommonPicture>ирСоставнойТип</CommonPicture>
 			<CommonPicture>ирСостояниеСсылки</CommonPicture>
 			<CommonPicture>ирСохранитьКакНастройкуПоУмолчанию</CommonPicture>
 			<CommonPicture>ирСписокЗначений</CommonPicture>
@@ -163,6 +168,7 @@ http://devtool1c.ucoz.ru/
 			<CommonPicture>ирУникальныйИдентификатор</CommonPicture>
 			<CommonPicture>ирУровниЖурналаРегистрации</CommonPicture>
 			<CommonPicture>ирУсечениеТипов</CommonPicture>
+			<CommonPicture>ирЧасы</CommonPicture>
 			<CommonPicture>ирЧисло</CommonPicture>
 			<Interface>ирДемонстрация</Interface>
 			<Interface>ирРазработчик</Interface>

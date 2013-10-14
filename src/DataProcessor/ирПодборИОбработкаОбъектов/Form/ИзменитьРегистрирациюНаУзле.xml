@@ -9,7 +9,7 @@
 					<v8:content>Изменить регистрирацию на узле</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment>Ссылка,СсылочныйОбъект,НесчитанныйНабораЗаписей,СчитанныйНаборЗаписей</Comment>
+			<Comment/>
 			<FormType>Ordinary</FormType>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UsePurposes>

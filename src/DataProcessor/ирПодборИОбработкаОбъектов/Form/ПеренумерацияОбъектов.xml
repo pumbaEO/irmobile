@@ -9,7 +9,7 @@
 					<v8:content>Перенумерация объектов</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment>СсылочныйОбъект</Comment>
+			<Comment/>
 			<FormType>Ordinary</FormType>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UsePurposes>

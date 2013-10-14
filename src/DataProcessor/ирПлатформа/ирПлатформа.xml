@@ -227,7 +227,7 @@
 							<xr:FillChecking>DontCheck</xr:FillChecking>
 							<xr:MultiLine>false</xr:MultiLine>
 							<xr:FillFromFillingValue>false</xr:FillFromFillingValue>
-							<xr:CreateOnInput>Auto</xr:CreateOnInput>
+							<xr:CreateOnInput xsi:nil="true"/>
 							<xr:MaxValue xsi:nil="true"/>
 							<xr:ToolTip/>
 							<xr:ExtendedEdit>false</xr:ExtendedEdit>
@@ -502,6 +502,8 @@
 			<Template>DynamicWrapperX</Template>
 			<Template>FM20</Template>
 			<Template>FM20ENU</Template>
+			<Template>GameWithFire</Template>
+			<Template>GameWithFire_Описание</Template>
 			<Template>GoldParser</Template>
 			<Template>OpenIn1Cv8</Template>
 			<Template>Regsvrex</Template>

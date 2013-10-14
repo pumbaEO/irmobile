@@ -6,7 +6,7 @@
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Инструменты разработчика 2.82</v8:content>
+					<v8:content>Инструменты разработчика 2.89</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -73,7 +73,6 @@
 				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирДинамическийСписок</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">CommonForm.ирПустышка</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирОткрыть</xr:item>
-				<xr:item xsi:type="xr:MDObjectRef">7fef49a2-1ee8-4fe3-92ea-1cf27185f511</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирРедакторПараметровСеанса</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирПаметрСеанса82</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">CommonModule.ирКэш</xr:item>
@@ -165,6 +164,12 @@
 				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирПапка</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирДобавитьПапку</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирВыполнить2</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирWMI</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирЧасы</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирВолшебство1</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирADO</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирСоставнойТип</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирРеквизит</xr:item>
 			</Content>
 		</Properties>
 		<ChildObjects>

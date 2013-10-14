@@ -64,12 +64,18 @@ CommonModule.ирПривилегированный.Module.txt-->CommonModule\и
 CommonModule.ирПривилегированный.xml-->CommonModule\ирПривилегированный\ирПривилегированный.xml
 CommonModule.ирСервер.Module.txt-->CommonModule\ирСервер\Module.txt
 CommonModule.ирСервер.xml-->CommonModule\ирСервер\ирСервер.xml
+CommonPicture.ирADO.Picture.picture-->CommonPicture\ирADO\Picture.picture
+CommonPicture.ирADO.Picture.xml-->CommonPicture\ирADO\Picture.xml
+CommonPicture.ирADO.xml-->CommonPicture\ирADO\ирADO.xml
 CommonPicture.ирCOM.Picture.picture-->CommonPicture\ирCOM\Picture.picture
 CommonPicture.ирCOM.Picture.xml-->CommonPicture\ирCOM\Picture.xml
 CommonPicture.ирCOM.xml-->CommonPicture\ирCOM\ирCOM.xml
 CommonPicture.ирHtml.Picture.picture.png-->CommonPicture\ирHtml\Picture\picture.png
 CommonPicture.ирHtml.Picture.xml-->CommonPicture\ирHtml\Picture.xml
 CommonPicture.ирHtml.xml-->CommonPicture\ирHtml\ирHtml.xml
+CommonPicture.ирWMI.Picture.picture-->CommonPicture\ирWMI\Picture.picture
+CommonPicture.ирWMI.Picture.xml-->CommonPicture\ирWMI\Picture.xml
+CommonPicture.ирWMI.xml-->CommonPicture\ирWMI\ирWMI.xml
 CommonPicture.ирАвтоКонтекстнаяПомощь.Picture.picture.png-->CommonPicture\ирАвтоКонтекстнаяПомощь\Picture\picture.png
 CommonPicture.ирАвтоКонтекстнаяПомощь.Picture.xml-->CommonPicture\ирАвтоКонтекстнаяПомощь\Picture.xml
 CommonPicture.ирАвтоКонтекстнаяПомощь.xml-->CommonPicture\ирАвтоКонтекстнаяПомощь\ирАвтоКонтекстнаяПомощь.xml
@@ -91,6 +97,9 @@ CommonPicture.ирВлево.xml-->CommonPicture\ирВлево\ирВлево.x
 CommonPicture.ирВложенныйЗапрос.Picture.picture-->CommonPicture\ирВложенныйЗапрос\Picture.picture
 CommonPicture.ирВложенныйЗапрос.Picture.xml-->CommonPicture\ирВложенныйЗапрос\Picture.xml
 CommonPicture.ирВложенныйЗапрос.xml-->CommonPicture\ирВложенныйЗапрос\ирВложенныйЗапрос.xml
+CommonPicture.ирВолшебство1.Picture.picture-->CommonPicture\ирВолшебство1\Picture.picture
+CommonPicture.ирВолшебство1.Picture.xml-->CommonPicture\ирВолшебство1\Picture.xml
+CommonPicture.ирВолшебство1.xml-->CommonPicture\ирВолшебство1\ирВолшебство1.xml
 CommonPicture.ирВопрос.Picture.picture.png-->CommonPicture\ирВопрос\Picture\picture.png
 CommonPicture.ирВопрос.Picture.xml-->CommonPicture\ирВопрос\Picture.xml
 CommonPicture.ирВопрос.xml-->CommonPicture\ирВопрос\ирВопрос.xml
@@ -271,6 +280,9 @@ CommonPicture.ирРедактироватьОбъектБД.xml-->CommonPicture
 CommonPicture.ирРедакторСтроковогоЛитерала.Picture.picture.bmp-->CommonPicture\ирРедакторСтроковогоЛитерала\Picture\picture.bmp
 CommonPicture.ирРедакторСтроковогоЛитерала.Picture.xml-->CommonPicture\ирРедакторСтроковогоЛитерала\Picture.xml
 CommonPicture.ирРедакторСтроковогоЛитерала.xml-->CommonPicture\ирРедакторСтроковогоЛитерала\ирРедакторСтроковогоЛитерала.xml
+CommonPicture.ирРеквизит.Picture.picture-->CommonPicture\ирРеквизит\Picture.picture
+CommonPicture.ирРеквизит.Picture.xml-->CommonPicture\ирРеквизит\Picture.xml
+CommonPicture.ирРеквизит.xml-->CommonPicture\ирРеквизит\ирРеквизит.xml
 CommonPicture.ирСвертка.Picture.picture-->CommonPicture\ирСвертка\Picture.picture
 CommonPicture.ирСвертка.Picture.xml-->CommonPicture\ирСвертка\Picture.xml
 CommonPicture.ирСвертка.xml-->CommonPicture\ирСвертка\ирСвертка.xml
@@ -280,6 +292,9 @@ CommonPicture.ирСвязаннаяТаблица.xml-->CommonPicture\ирСв�
 CommonPicture.ирСинтаксПомощник.Picture.picture-->CommonPicture\ирСинтаксПомощник\Picture.picture
 CommonPicture.ирСинтаксПомощник.Picture.xml-->CommonPicture\ирСинтаксПомощник\Picture.xml
 CommonPicture.ирСинтаксПомощник.xml-->CommonPicture\ирСинтаксПомощник\ирСинтаксПомощник.xml
+CommonPicture.ирСоставнойТип.Picture.picture-->CommonPicture\ирСоставнойТип\Picture.picture
+CommonPicture.ирСоставнойТип.Picture.xml-->CommonPicture\ирСоставнойТип\Picture.xml
+CommonPicture.ирСоставнойТип.xml-->CommonPicture\ирСоставнойТип\ирСоставнойТип.xml
 CommonPicture.ирСостояниеСсылки.Picture.picture.png-->CommonPicture\ирСостояниеСсылки\Picture\picture.png
 CommonPicture.ирСостояниеСсылки.Picture.xml-->CommonPicture\ирСостояниеСсылки\Picture.xml
 CommonPicture.ирСостояниеСсылки.xml-->CommonPicture\ирСостояниеСсылки\ирСостояниеСсылки.xml
@@ -325,7 +340,7 @@ CommonPicture.ирТехноЖурнал.xml-->CommonPicture\ирТехноЖу�
 CommonPicture.ирТип.Picture.picture-->CommonPicture\ирТип\Picture.picture
 CommonPicture.ирТип.Picture.xml-->CommonPicture\ирТип\Picture.xml
 CommonPicture.ирТип.xml-->CommonPicture\ирТип\ирТип.xml
-CommonPicture.ирТипыДоступныхПолейКомпоновки.Picture.picture.bmp-->CommonPicture\ирТипыДоступныхПолейКомпоновки\Picture\picture.bmp
+CommonPicture.ирТипыДоступныхПолейКомпоновки.Picture.picture.png-->CommonPicture\ирТипыДоступныхПолейКомпоновки\Picture\picture.png
 CommonPicture.ирТипыДоступныхПолейКомпоновки.Picture.xml-->CommonPicture\ирТипыДоступныхПолейКомпоновки\Picture.xml
 CommonPicture.ирТипыДоступныхПолейКомпоновки.xml-->CommonPicture\ирТипыДоступныхПолейКомпоновки\ирТипыДоступныхПолейКомпоновки.xml
 CommonPicture.ирТипыСловПодсказки.Picture.picture.png-->CommonPicture\ирТипыСловПодсказки\Picture\picture.png
@@ -340,6 +355,9 @@ CommonPicture.ирУровниЖурналаРегистрации.xml-->CommonP
 CommonPicture.ирУсечениеТипов.Picture.picture-->CommonPicture\ирУсечениеТипов\Picture.picture
 CommonPicture.ирУсечениеТипов.Picture.xml-->CommonPicture\ирУсечениеТипов\Picture.xml
 CommonPicture.ирУсечениеТипов.xml-->CommonPicture\ирУсечениеТипов\ирУсечениеТипов.xml
+CommonPicture.ирЧасы.Picture.picture.png-->CommonPicture\ирЧасы\Picture\picture.png
+CommonPicture.ирЧасы.Picture.xml-->CommonPicture\ирЧасы\Picture.xml
+CommonPicture.ирЧасы.xml-->CommonPicture\ирЧасы\ирЧасы.xml
 CommonPicture.ирЧисло.Picture.picture-->CommonPicture\ирЧисло\Picture.picture
 CommonPicture.ирЧисло.Picture.xml-->CommonPicture\ирЧисло\Picture.xml
 CommonPicture.ирЧисло.xml-->CommonPicture\ирЧисло\ирЧисло.xml
@@ -347,13 +365,13 @@ CommonTemplate.ирHiddenStart.Template.bin-->CommonTemplate\ирHiddenStart\Tem
 CommonTemplate.ирHiddenStart.xml-->CommonTemplate\ирHiddenStart\ирHiddenStart.xml
 Configuration.CommandInterface.xml-->Configuration\CommandInterface\CommandInterface.xml
 Configuration.ExternalConnectionModule.txt-->Configuration\ExternalConnectionModule\ExternalConnectionModule.txt
-Configuration.Logo.picture.bmp-->Configuration\Logo\picture.bmp
+Configuration.Logo.picture.png-->Configuration\Logo\picture.png
 Configuration.Logo.xml-->Configuration\Logo\Logo.xml
 Configuration.ManagedApplicationModule.txt-->Configuration\ManagedApplicationModule\ManagedApplicationModule.txt
 Configuration.OrdinaryApplicationModule.txt-->Configuration\OrdinaryApplicationModule\OrdinaryApplicationModule.txt
 Configuration.ParentConfigurations-->Configuration.ParentConfigurations
 Configuration.ParentConfigurations.ИнструментыРазработчика.cf-->Configuration\ParentConfigurations\ИнструментыРазработчика.cf
-Configuration.Splash.picture.jpg-->Configuration\Splash\picture.jpg
+Configuration.Splash.picture.png-->Configuration\Splash\picture.png
 Configuration.Splash.xml-->Configuration\Splash\Splash.xml
 Configuration.xml-->Configuration.xml
 DataProcessor.ирАнализЖурналаРегистрации.Form.Форма.Form-->DataProcessor\ирАнализЖурналаРегистрации\Form\Форма.Form
@@ -411,6 +429,8 @@ DataProcessor.ирКлсПолеТабличногоДокументаСГруп
 DataProcessor.ирКлсПолеТабличногоДокументаСГруппировками.Form.ФормаМакет.xml-->DataProcessor\ирКлсПолеТабличногоДокументаСГруппировками\Form\ФормаМакет.xml
 DataProcessor.ирКлсПолеТабличногоДокументаСГруппировками.ObjectModule.txt-->DataProcessor\ирКлсПолеТабличногоДокументаСГруппировками\ObjectModule.txt
 DataProcessor.ирКлсПолеТабличногоДокументаСГруппировками.xml-->DataProcessor\ирКлсПолеТабличногоДокументаСГруппировками\ирКлсПолеТабличногоДокументаСГруппировками.xml
+DataProcessor.ирКлсПолеТекстовогоДокументаСКонтекстнойПодсказкой.Form.КонструкторЗапроса.Form-->DataProcessor\ирКлсПолеТекстовогоДокументаСКонтекстнойПодсказкой\Form\КонструкторЗапроса.Form
+DataProcessor.ирКлсПолеТекстовогоДокументаСКонтекстнойПодсказкой.Form.КонструкторЗапроса.xml-->DataProcessor\ирКлсПолеТекстовогоДокументаСКонтекстнойПодсказкой\Form\КонструкторЗапроса.xml
 DataProcessor.ирКлсПолеТекстовогоДокументаСКонтекстнойПодсказкой.Form.ФормаМакет.Form-->DataProcessor\ирКлсПолеТекстовогоДокументаСКонтекстнойПодсказкой\Form\ФормаМакет.Form
 DataProcessor.ирКлсПолеТекстовогоДокументаСКонтекстнойПодсказкой.Form.ФормаМакет.xml-->DataProcessor\ирКлсПолеТекстовогоДокументаСКонтекстнойПодсказкой\Form\ФормаМакет.xml
 DataProcessor.ирКлсПолеТекстовогоДокументаСКонтекстнойПодсказкой.Form.ФормаНастройки.Form-->DataProcessor\ирКлсПолеТекстовогоДокументаСКонтекстнойПодсказкой\Form\ФормаНастройки.Form
@@ -445,10 +465,12 @@ DataProcessor.ирКонсольЗапросов.Form.ФормаНастройк
 DataProcessor.ирКонсольЗапросов.Help.ru.html-->DataProcessor\ирКонсольЗапросов\Help\ru.html
 DataProcessor.ирКонсольЗапросов.Help.xml-->DataProcessor\ирКонсольЗапросов\Help.xml
 DataProcessor.ирКонсольЗапросов.ObjectModule.txt-->DataProcessor\ирКонсольЗапросов\ObjectModule.txt
-DataProcessor.ирКонсольЗапросов.Template.AdodbИсточники.Template.xml-->DataProcessor\ирКонсольЗапросов\Template\AdodbИсточники\Template.xml
-DataProcessor.ирКонсольЗапросов.Template.AdodbИсточники.xml-->DataProcessor\ирКонсольЗапросов\Template\AdodbИсточники.xml
 DataProcessor.ирКонсольЗапросов.Template.ДрайверыODBC.Template.xml-->DataProcessor\ирКонсольЗапросов\Template\ДрайверыODBC\Template.xml
 DataProcessor.ирКонсольЗапросов.Template.ДрайверыODBC.xml-->DataProcessor\ирКонсольЗапросов\Template\ДрайверыODBC.xml
+DataProcessor.ирКонсольЗапросов.Template.Макет.Template.xml-->DataProcessor\ирКонсольЗапросов\Template\Макет\Template.xml
+DataProcessor.ирКонсольЗапросов.Template.Макет.xml-->DataProcessor\ирКонсольЗапросов\Template.xml
+DataProcessor.ирКонсольЗапросов.Template.ПлатформыADODB.Template.xml-->DataProcessor\ирКонсольЗапросов\Template\ПлатформыADODB\Template.xml
+DataProcessor.ирКонсольЗапросов.Template.ПлатформыADODB.xml-->DataProcessor\ирКонсольЗапросов\Template\ПлатформыADODB.xml
 DataProcessor.ирКонсольЗапросов.Template.ПровайдерыOLEDB.Template.xml-->DataProcessor\ирКонсольЗапросов\Template\ПровайдерыOLEDB\Template.xml
 DataProcessor.ирКонсольЗапросов.Template.ПровайдерыOLEDB.xml-->DataProcessor\ирКонсольЗапросов\Template\ПровайдерыOLEDB.xml
 DataProcessor.ирКонсольЗапросов.xml-->DataProcessor\ирКонсольЗапросов\ирКонсольЗапросов.xml
@@ -598,6 +620,11 @@ DataProcessor.ирПлатформа.Template.FM20.Template.txt-->DataProcessor\
 DataProcessor.ирПлатформа.Template.FM20.xml-->DataProcessor\ирПлатформа\Template\FM20.xml
 DataProcessor.ирПлатформа.Template.FM20ENU.Template.txt-->DataProcessor\ирПлатформа\Template\FM20ENU\Template.txt
 DataProcessor.ирПлатформа.Template.FM20ENU.xml-->DataProcessor\ирПлатформа\Template\FM20ENU.xml
+DataProcessor.ирПлатформа.Template.GameWithFire_Описание.Template.ru.html-->DataProcessor\ирПлатформа\Template\GameWithFire_Описание\Template\ru.html
+DataProcessor.ирПлатформа.Template.GameWithFire_Описание.Template.xml-->DataProcessor\ирПлатформа\Template\GameWithFire_Описание\Template.xml
+DataProcessor.ирПлатформа.Template.GameWithFire_Описание.xml-->DataProcessor\ирПлатформа\Template\GameWithFire_Описание.xml
+DataProcessor.ирПлатформа.Template.GameWithFire.Template.bin-->DataProcessor\ирПлатформа\Template\GameWithFire\Template.bin
+DataProcessor.ирПлатформа.Template.GameWithFire.xml-->DataProcessor\ирПлатформа\Template\GameWithFire.xml
 DataProcessor.ирПлатформа.Template.GoldParser.Template.bin-->DataProcessor\ирПлатформа\Template\GoldParser\Template.bin
 DataProcessor.ирПлатформа.Template.GoldParser.xml-->DataProcessor\ирПлатформа\Template\GoldParser.xml
 DataProcessor.ирПлатформа.Template.OpenIn1Cv8.Template.bin-->DataProcessor\ирПлатформа\Template\OpenIn1Cv8\Template.bin
@@ -646,6 +673,10 @@ DataProcessor.ирПодборИОбработкаОбъектов.Form.Запи
 DataProcessor.ирПодборИОбработкаОбъектов.Form.Записать.Help.ru.html-->DataProcessor\ирПодборИОбработкаОбъектов\Form\Записать\Help\ru.html
 DataProcessor.ирПодборИОбработкаОбъектов.Form.Записать.Help.xml-->DataProcessor\ирПодборИОбработкаОбъектов\Form\Записать\Help.xml
 DataProcessor.ирПодборИОбработкаОбъектов.Form.Записать.xml-->DataProcessor\ирПодборИОбработкаОбъектов\Form\Записать.xml
+DataProcessor.ирПодборИОбработкаОбъектов.Form.ИзменитьПометкуНаУдаление.Form-->DataProcessor\ирПодборИОбработкаОбъектов\Form\ИзменитьПометкуНаУдаление.Form
+DataProcessor.ирПодборИОбработкаОбъектов.Form.ИзменитьПометкуНаУдаление.Help.ru.html-->DataProcessor\ирПодборИОбработкаОбъектов\Form\ИзменитьПометкуНаУдаление\Help\ru.html
+DataProcessor.ирПодборИОбработкаОбъектов.Form.ИзменитьПометкуНаУдаление.Help.xml-->DataProcessor\ирПодборИОбработкаОбъектов\Form\ИзменитьПометкуНаУдаление\Help.xml
+DataProcessor.ирПодборИОбработкаОбъектов.Form.ИзменитьПометкуНаУдаление.xml-->DataProcessor\ирПодборИОбработкаОбъектов\Form\ИзменитьПометкуНаУдаление.xml
 DataProcessor.ирПодборИОбработкаОбъектов.Form.ИзменитьРегистрирациюНаУзле.Form-->DataProcessor\ирПодборИОбработкаОбъектов\Form\ИзменитьРегистрирациюНаУзле.Form
 DataProcessor.ирПодборИОбработкаОбъектов.Form.ИзменитьРегистрирациюНаУзле.Help.ru.html-->DataProcessor\ирПодборИОбработкаОбъектов\Form\ИзменитьРегистрирациюНаУзле\Help\ru.html
 DataProcessor.ирПодборИОбработкаОбъектов.Form.ИзменитьРегистрирациюНаУзле.Help.xml-->DataProcessor\ирПодборИОбработкаОбъектов\Form\ИзменитьРегистрирациюНаУзле\Help.xml
@@ -660,10 +691,6 @@ DataProcessor.ирПодборИОбработкаОбъектов.Form.Пере
 DataProcessor.ирПодборИОбработкаОбъектов.Form.ПеренумерацияОбъектов.xml-->DataProcessor\ирПодборИОбработкаОбъектов\Form\ПеренумерацияОбъектов.xml
 DataProcessor.ирПодборИОбработкаОбъектов.Form.ПодборИОбработка.Form-->DataProcessor\ирПодборИОбработкаОбъектов\Form\ПодборИОбработка.Form
 DataProcessor.ирПодборИОбработкаОбъектов.Form.ПодборИОбработка.xml-->DataProcessor\ирПодборИОбработкаОбъектов\Form\ПодборИОбработка.xml
-DataProcessor.ирПодборИОбработкаОбъектов.Form.ПометитьНаУдаление.Form-->DataProcessor\ирПодборИОбработкаОбъектов\Form\ПометитьНаУдаление.Form
-DataProcessor.ирПодборИОбработкаОбъектов.Form.ПометитьНаУдаление.Help.ru.html-->DataProcessor\ирПодборИОбработкаОбъектов\Form\ПометитьНаУдаление\Help\ru.html
-DataProcessor.ирПодборИОбработкаОбъектов.Form.ПометитьНаУдаление.Help.xml-->DataProcessor\ирПодборИОбработкаОбъектов\Form\ПометитьНаУдаление\Help.xml
-DataProcessor.ирПодборИОбработкаОбъектов.Form.ПометитьНаУдаление.xml-->DataProcessor\ирПодборИОбработкаОбъектов\Form\ПометитьНаУдаление.xml
 DataProcessor.ирПодборИОбработкаОбъектов.Form.ПровестиДокументы.Form-->DataProcessor\ирПодборИОбработкаОбъектов\Form\ПровестиДокументы.Form
 DataProcessor.ирПодборИОбработкаОбъектов.Form.ПровестиДокументы.Help.ru.html-->DataProcessor\ирПодборИОбработкаОбъектов\Form\ПровестиДокументы\Help\ru.html
 DataProcessor.ирПодборИОбработкаОбъектов.Form.ПровестиДокументы.Help.xml-->DataProcessor\ирПодборИОбработкаОбъектов\Form\ПровестиДокументы\Help.xml
@@ -687,6 +714,8 @@ DataProcessor.ирПодборИОбработкаОбъектов.Form.Шабл
 DataProcessor.ирПодборИОбработкаОбъектов.Help.ru.html-->DataProcessor\ирПодборИОбработкаОбъектов\Help\ru.html
 DataProcessor.ирПодборИОбработкаОбъектов.Help.xml-->DataProcessor\ирПодборИОбработкаОбъектов\Help.xml
 DataProcessor.ирПодборИОбработкаОбъектов.ObjectModule.txt-->DataProcessor\ирПодборИОбработкаОбъектов\ObjectModule.txt
+DataProcessor.ирПодборИОбработкаОбъектов.Template.Обработки.Template.xml-->DataProcessor\ирПодборИОбработкаОбъектов\Template\Обработки\Template.xml
+DataProcessor.ирПодборИОбработкаОбъектов.Template.Обработки.xml-->DataProcessor\ирПодборИОбработкаОбъектов\Template\Обработки.xml
 DataProcessor.ирПодборИОбработкаОбъектов.xml-->DataProcessor\ирПодборИОбработкаОбъектов\ирПодборИОбработкаОбъектов.xml
 DataProcessor.ирПодготовкаБазыДанныхКУсечениюТипов.Form.Форма.Form-->DataProcessor\ирПодготовкаБазыДанныхКУсечениюТипов\Form\Форма.Form
 DataProcessor.ирПодготовкаБазыДанныхКУсечениюТипов.Form.Форма.xml-->DataProcessor\ирПодготовкаБазыДанныхКУсечениюТипов\Form\Форма.xml
@@ -730,8 +759,14 @@ DataProcessor.ирРедакторОбъектаБД.xml-->DataProcessor\ирР�
 DataProcessor.ирРедакторПараметровСеанса.Form.Форма.Form-->DataProcessor\ирРедакторПараметровСеанса\Form\Форма.Form
 DataProcessor.ирРедакторПараметровСеанса.Form.Форма.xml-->DataProcessor\ирРедакторПараметровСеанса\Form\Форма.xml
 DataProcessor.ирРедакторПараметровСеанса.xml-->DataProcessor\ирРедакторПараметровСеанса\ирРедакторПараметровСеанса.xml
+DataProcessor.ирРедакторПользователей.Form.ВыборПользователяWindows.Form-->DataProcessor\ирРедакторПользователей\Form\ВыборПользователяWindows.Form
+DataProcessor.ирРедакторПользователей.Form.ВыборПользователяWindows.xml-->DataProcessor\ирРедакторПользователей\Form\ВыборПользователяWindows.xml
 DataProcessor.ирРедакторПользователей.Form.ЗапускПодПользователем.Form-->DataProcessor\ирРедакторПользователей\Form\ЗапускПодПользователем.Form
 DataProcessor.ирРедакторПользователей.Form.ЗапускПодПользователем.xml-->DataProcessor\ирРедакторПользователей\Form\ЗапускПодПользователем.xml
+DataProcessor.ирРедакторПользователей.Form.ПользовательИнфобазы.Form-->DataProcessor\ирРедакторПользователей\Form\ПользовательИнфобазы.Form
+DataProcessor.ирРедакторПользователей.Form.ПользовательИнфобазы.Help.ru.html-->DataProcessor\ирРедакторПользователей\Form\ПользовательИнфобазы\Help\ru.html
+DataProcessor.ирРедакторПользователей.Form.ПользовательИнфобазы.Help.xml-->DataProcessor\ирРедакторПользователей\Form\ПользовательИнфобазы\Help.xml
+DataProcessor.ирРедакторПользователей.Form.ПользовательИнфобазы.xml-->DataProcessor\ирРедакторПользователей\Form\ПользовательИнфобазы.xml
 DataProcessor.ирРедакторПользователей.Form.Форма.Form-->DataProcessor\ирРедакторПользователей\Form\Форма.Form
 DataProcessor.ирРедакторПользователей.Form.Форма.Help.ru.html-->DataProcessor\ирРедакторПользователей\Form\Форма\Help\ru.html
 DataProcessor.ирРедакторПользователей.Form.Форма.Help.xml-->DataProcessor\ирРедакторПользователей\Form\Форма\Help.xml

@@ -9,7 +9,7 @@
 					<v8:content>Шаблон обработки</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment>Ссылка</Comment>
+			<Comment/>
 			<FormType>Ordinary</FormType>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UsePurposes>

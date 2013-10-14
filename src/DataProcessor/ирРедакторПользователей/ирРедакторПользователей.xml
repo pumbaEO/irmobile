@@ -711,6 +711,8 @@
 			</TabularSection>
 			<Form>Форма</Form>
 			<Form>ЗапускПодПользователем</Form>
+			<Form>ПользовательИнфобазы</Form>
+			<Form>ВыборПользователяWindows</Form>
 		</ChildObjects>
 	</DataProcessor>
 </MetaDataObject>
