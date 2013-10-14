@@ -17,7 +17,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRole>Role.ирРазработчик</DefaultRole>
 			<Vendor>tormozit</Vendor>
-			<Version>2.89</Version>
+			<Version>2.97</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>true</UseManagedFormInOrdinaryApplication>
@@ -75,6 +75,7 @@ http://devtool1c.ucoz.ru/
 			<CommonPicture>ирCOM</CommonPicture>
 			<CommonPicture>ирHtml</CommonPicture>
 			<CommonPicture>ирWMI</CommonPicture>
+			<CommonPicture>ирXML</CommonPicture>
 			<CommonPicture>ирАвтоКонтекстнаяПомощь</CommonPicture>
 			<CommonPicture>ирАлгоритм</CommonPicture>
 			<CommonPicture>ирАноним</CommonPicture>
@@ -85,6 +86,7 @@ http://devtool1c.ucoz.ru/
 			<CommonPicture>ирВолшебство1</CommonPicture>
 			<CommonPicture>ирВопрос</CommonPicture>
 			<CommonPicture>ирВправо</CommonPicture>
+			<CommonPicture>ирВременнаяТаблица</CommonPicture>
 			<CommonPicture>ирВставить</CommonPicture>
 			<CommonPicture>ирВходящий</CommonPicture>
 			<CommonPicture>ирВыполнить</CommonPicture>
@@ -100,6 +102,7 @@ http://devtool1c.ucoz.ru/
 			<CommonPicture>ирДобавитьВИзбранное</CommonPicture>
 			<CommonPicture>ирДобавитьПапку</CommonPicture>
 			<CommonPicture>ирЖурнал</CommonPicture>
+			<CommonPicture>ирЗаменитьТаблицу</CommonPicture>
 			<CommonPicture>ирЗамер</CommonPicture>
 			<CommonPicture>ирЗапрос</CommonPicture>
 			<CommonPicture>ирИзмененияНаУзле</CommonPicture>
@@ -107,6 +110,7 @@ http://devtool1c.ucoz.ru/
 			<CommonPicture>ирИнтерфейснаяПанель</CommonPicture>
 			<CommonPicture>ирИсполняемыйЗапрос</CommonPicture>
 			<CommonPicture>ирИсследовать</CommonPicture>
+			<CommonPicture>ирКоманднаяПанель</CommonPicture>
 			<CommonPicture>ирКонсольЗапросов</CommonPicture>
 			<CommonPicture>ирКонсольКода</CommonPicture>
 			<CommonPicture>ирКонсольКомпоновок</CommonPicture>
@@ -141,9 +145,11 @@ http://devtool1c.ucoz.ru/
 			<CommonPicture>ирПользователь</CommonPicture>
 			<CommonPicture>ирПостроительЗапроса</CommonPicture>
 			<CommonPicture>ирПредприятие1С8</CommonPicture>
+			<CommonPicture>ирРазвернутьВсе</CommonPicture>
 			<CommonPicture>ирРедактироватьОбъектБД</CommonPicture>
 			<CommonPicture>ирРедакторСтроковогоЛитерала</CommonPicture>
 			<CommonPicture>ирРеквизит</CommonPicture>
+			<CommonPicture>ирСвернутьВсе</CommonPicture>
 			<CommonPicture>ирСвертка</CommonPicture>
 			<CommonPicture>ирСвязаннаяТаблица</CommonPicture>
 			<CommonPicture>ирСинтаксПомощник</CommonPicture>
@@ -177,6 +183,7 @@ http://devtool1c.ucoz.ru/
 			<Role>ирПравоАдминистрирование</Role>
 			<Role>ирРазработчик</Role>
 			<CommonTemplate>ирHiddenStart</CommonTemplate>
+			<CommonTemplate>ирОПодсистеме</CommonTemplate>
 			<CommonModule>ирГлобальный</CommonModule>
 			<CommonModule>ирКэш</CommonModule>
 			<CommonModule>ирНеглобальный</CommonModule>
@@ -198,6 +205,7 @@ http://devtool1c.ucoz.ru/
 			<CommonForm>ирАдминистративнаяРегистрацияCOM</CommonForm>
 			<CommonForm>ирКонсольКода</CommonForm>
 			<CommonForm>ирНастройкиАлгоритмов</CommonForm>
+			<CommonForm>ирОПодсистеме</CommonForm>
 			<CommonForm>ирПустышка</CommonForm>
 			<Catalog>ирАлгоритмы</Catalog>
 			<Catalog>ирКомандаРедактироватьОбъект</Catalog>

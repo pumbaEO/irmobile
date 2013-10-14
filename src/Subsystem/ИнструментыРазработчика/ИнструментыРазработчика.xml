@@ -6,11 +6,11 @@
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Инструменты разработчика 2.89</v8:content>
+					<v8:content>Инструменты разработчика 2.97</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
-			<IncludeHelpInContents>true</IncludeHelpInContents>
+			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<IncludeInCommandInterface>true</IncludeInCommandInterface>
 			<Explanation/>
 			<Picture>
@@ -170,6 +170,14 @@
 				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирADO</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирСоставнойТип</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирРеквизит</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирЗаменитьТаблицу</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирСвернутьВсе</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирРазвернутьВсе</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирВременнаяТаблица</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирКоманднаяПанель</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonForm.ирОПодсистеме</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonTemplate.ирОПодсистеме</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирXML</xr:item>
 			</Content>
 		</Properties>
 		<ChildObjects>
