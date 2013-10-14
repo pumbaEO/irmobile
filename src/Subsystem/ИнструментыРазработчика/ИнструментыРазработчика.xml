@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Subsystem uuid="69395056-dad8-4227-b35c-38827b1495be">
+		<Properties>
+			<Name>ИнструментыРазработчика</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Инструменты разработчика 2.82</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<IncludeHelpInContents>true</IncludeHelpInContents>
+			<IncludeInCommandInterface>true</IncludeInCommandInterface>
+			<Explanation/>
+			<Picture>
+				<xr:pictureRef>CommonPicture.ирИнструментыРазработчика</xr:pictureRef>
+				<xr:loadTransparent>false</xr:loadTransparent>
+			</Picture>
+			<Content>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирАлгоритм</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирВлево</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирВправо</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирДеревоЗначений</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирДобавитьАлгоритм</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирИнтерфейснаяПанель</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирИсполняемыйЗапрос</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирКонсольЗапросов</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирКонсольКомпоновок</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирКонсольПостроителей</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирКонстанты</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирКонфигуратор1С8</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирНаборыДанныхСхемыКомпоновки</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирНастройкиАлгоритмов</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирОбработкаОбъектов</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирПараметрыМетода</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирПереключитьИнтерфейс</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирПоискИЗаменаДублей</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирПоискСсылокНаОбъект</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирСостояниеСсылки</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирСохранитьКакНастройкуПоУмолчанию</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирСписокЗначений</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирСравнить</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирТаблицаЗначений</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирТаблицыЗапроса</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирТабличнаяЧасть</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирТабличныйДокумент</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирТипыДоступныхПолейКомпоновки</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирРедактироватьОбъектБД</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирОсторожный</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирНовоеОкно</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">Interface.ирРазработчик</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">Role.ирРазработчик</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonModule.ирОтладка</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonModule.ирПривилегированный</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonForm.ирНастройкиАлгоритмов</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">Catalog.ирАлгоритмы</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">Report.ирКонсольКомпоновокДанных</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирВводВыраженияВстроенногоЯзыка</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирИнтерфейснаяПанель</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирИсследовательОбъектов</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирКлсПолеТабличногоДокументаСГруппировками</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирКонсольЗапросов</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирКонсольПостроителейОтчетов</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирМенеджерИнтерфейсов</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирМенеджерТабличногоПоля</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирПодготовкаБазыДанныхКУсечениюТипов</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирПоискДублейИЗаменаСсылок</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирПоискСсылокНаОбъект</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирПодборИОбработкаОбъектов</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирРедакторКонстант</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирРедакторОбъектаБД</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирДинамическийСписок</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonForm.ирПустышка</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирОткрыть</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">7fef49a2-1ee8-4fe3-92ea-1cf27185f511</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирРедакторПараметровСеанса</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирПаметрСеанса82</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonModule.ирКэш</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">Role.ирПользователь</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">Role.ирПравоАдминистрирование</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonForm.ирАдминистративнаяРегистрацияCOM</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">StyleItem.ирЦветФонаВычисляемогоЗначения</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonCommand.ирОткрытьОтладчик</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирCOM</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonCommand.ирОткрытьНастройкиАлгоритмов</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonCommand.ирОткрытьРегистрациюCOMКомпонент</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирОтладка</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирНайтиВДереве</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonForm.ирКонсольКода</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирВыполнить</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирУсечениеТипов</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирСвертка</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonCommand.ирРедактироватьОбъект</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonCommand.ирОбъединитьСсылки</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonCommand.ирИсследоватьИсточник</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommandGroup.ирКоманднаяПанельФормы</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonCommand.ирОбработатьОбъекты</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonCommand.ирОперироватьИсточник</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирВыражение</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирСинтаксПомощник</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирКопировать</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирВставить</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирВыполнитьНаСервере</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирКопировать2</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonCommand.ирОткрытьКонсольКода</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирКонсольЗаданий</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирАвтоКонтекстнаяПомощь</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">StyleItem.ирТекстИнформационнойНадписи</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирКонсольКода</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирЧисло</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирДата</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирСтрока</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирБулево</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирИнструментыРазработчика</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирБлокировка</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommandGroup.ирНастройки</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирНайтиВСписке</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">Role.ирОтладкаПользователя</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирИзмененияНаУзле</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирРедакторИзмененийНаУзле</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">Catalog.ирКомандаРедактироватьОбъект</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonCommand.ирРедактироватьИзмененияНаУзле</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирАнализЖурналаРегистрации</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирЖурнал</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирУровниЖурналаРегистрации</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирОтборБезЗначения</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирЗапрос</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирHtml</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирУникальныйИдентификатор</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирОписаниеТипов</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирТип</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирГенератор</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирТаблицаИзменений</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирСвязаннаяТаблица</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирСинтаксПомощник</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирСумма</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирТипыСловПодсказки</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирОтборПоЗначению</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">StyleItem.ирЦветФонаЧередованияСтрок</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирИнтерфейснаяПанель</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирОтборПоПодсистеме</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">StyleItem.ирЦветФонаОшибки</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирДобавитьВИзбранное</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирРедакторПользователей</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирПользователи</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирПользователь</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирАноним</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирПредприятие1С8</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">Catalog.ирОбъектыДляОтладки</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирАнализТехножурнала</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирТехноЖурнал</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирВложенныйЗапрос</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирВыходящий</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирВходящий</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирНастройкаЖурналаРегистрации</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирТестированиеМетаданных</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирТестирование</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирНастройкаЖурналаРегистрации</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирНастройкаТехножурнала</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирНастройкаТехножурнала</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирЗамер</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирСхемаКомпоновкиДанных</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирПостроительЗапроса</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирПапка</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирДобавитьПапку</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирВыполнить2</xr:item>
+			</Content>
+		</Properties>
+		<ChildObjects>
+			<Subsystem>КонтекстнаяПодсказка</Subsystem>
+		</ChildObjects>
+	</Subsystem>
+</MetaDataObject>

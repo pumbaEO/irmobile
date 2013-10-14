@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<commandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<commandVisibility>
+		<command>Catalog.ирАлгоритмы.StandardCommand.Create</command>
+		<visibility>
+			<xr:common>true</xr:common>
+		</visibility>
+	</commandVisibility>
+	<commandVisibility>
+		<command>DataProcessor.ирВводВыраженияВстроенногоЯзыка.StandardCommand.Open</command>
+		<visibility>
+			<xr:common>false</xr:common>
+		</visibility>
+	</commandVisibility>
+	<commandVisibility>
+		<command>Report.ирКонсольКомпоновокДанных.StandardCommand.Open</command>
+		<visibility>
+			<xr:common>true</xr:common>
+		</visibility>
+	</commandVisibility>
+	<commandVisibility>
+		<command>DataProcessor.ирМенеджерИнтерфейсов.StandardCommand.Open</command>
+		<visibility>
+			<xr:common>false</xr:common>
+		</visibility>
+	</commandVisibility>
+	<commandPlacement>
+		<command>Report.ирКонсольКомпоновокДанных.StandardCommand.Open</command>
+		<commandGroup>ActionsPanelTools</commandGroup>
+		<placement>Auto</placement>
+	</commandPlacement>
+	<manualOrderEditGroup>NavigationPanelImportant</manualOrderEditGroup>
+</commandInterface>

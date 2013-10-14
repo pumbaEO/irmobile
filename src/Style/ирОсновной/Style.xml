@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<style xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<entry name="FormBackColor">
+		<color>style:FormBackColor</color>
+	</entry>
+	<entry name="FormTextColor">
+		<color>style:FormTextColor</color>
+	</entry>
+	<entry name="ButtonBackColor">
+		<color>style:ButtonBackColor</color>
+	</entry>
+	<entry name="ButtonTextColor">
+		<color>style:ButtonTextColor</color>
+	</entry>
+	<entry name="FieldBackColor">
+		<color>style:FieldBackColor</color>
+	</entry>
+	<entry name="FieldTextColor">
+		<color>style:FieldTextColor</color>
+	</entry>
+	<entry name="FieldSelectionBackColor">
+		<color>style:FieldSelectionBackColor</color>
+	</entry>
+	<entry name="FieldSelectedTextColor">
+		<color>style:FieldSelectedTextColor</color>
+	</entry>
+	<entry name="FieldAlternativeBackColor">
+		<color>style:FieldAlternativeBackColor</color>
+	</entry>
+	<entry name="ToolTipBackColor">
+		<color>style:ToolTipBackColor</color>
+	</entry>
+	<entry name="ToolTipTextColor">
+		<color>style:ToolTipTextColor</color>
+	</entry>
+	<entry name="SpecialTextColor">
+		<color>style:SpecialTextColor</color>
+	</entry>
+	<entry name="NegativeTextColor">
+		<color>style:NegativeTextColor</color>
+	</entry>
+	<entry name="BorderColor">
+		<color>style:BorderColor</color>
+	</entry>
+	<entry name="ReportHeaderBackColor">
+		<color>style:ReportHeaderBackColor</color>
+	</entry>
+	<entry name="ReportGroup1BackColor">
+		<color>style:ReportGroup1BackColor</color>
+	</entry>
+	<entry name="ReportGroup2BackColor">
+		<color>style:ReportGroup2BackColor</color>
+	</entry>
+	<entry name="ReportLineColor">
+		<color>style:ReportLineColor</color>
+	</entry>
+	<entry name="ControlBorder">
+		<border ref="style:ControlBorder"/>
+	</entry>
+	<entry name="TextFont">
+		<font ref="style:TextFont" kind="StyleItem"/>
+	</entry>
+	<entry name="SmallTextFont">
+		<font ref="style:SmallTextFont" kind="StyleItem"/>
+	</entry>
+	<entry name="NormalTextFont">
+		<font ref="style:NormalTextFont" kind="StyleItem"/>
+	</entry>
+	<entry name="LargeTextFont">
+		<font ref="style:LargeTextFont" kind="StyleItem"/>
+	</entry>
+	<entry name="ExtraLargeTextFont">
+		<font ref="style:ExtraLargeTextFont" kind="StyleItem"/>
+	</entry>
+	<entry name="StyleItem.ирТекстИнформационнойНадписи">
+		<color>#536AC2</color>
+	</entry>
+	<entry name="StyleItem.ирЦветФонаВычисляемогоЗначения">
+		<color>#F5E6FA</color>
+	</entry>
+	<entry name="StyleItem.ирЦветФонаОшибки">
+		<color>#FFF0F0</color>
+	</entry>
+	<entry name="StyleItem.ирЦветФонаРасширенногоПредставленияЗначения">
+		<color>#FFFFB4</color>
+	</entry>
+	<entry name="StyleItem.ирЦветФонаЧередованияСтрок">
+		<color>web:MintCream</color>
+	</entry>
+</style>
