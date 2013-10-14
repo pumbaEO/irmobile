@@ -21,13 +21,13 @@
 				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирКотекстныйСинтаксПомощник</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирВопрос</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">CommonTemplate.ирHiddenStart</xr:item>
-				<xr:item xsi:type="xr:MDObjectRef">CommonModule.ирГлобальный</xr:item>
-				<xr:item xsi:type="xr:MDObjectRef">CommonModule.ирНеглобальный</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">75973d69-58b0-4281-87a5-81fba44ab403</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">ad8f9897-ed33-465e-abb0-2fff0b04813f</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирКлсПолеТекстовогоДокументаСКонтекстнойПодсказкой</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирПлатформа</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">StyleItem.ирЦветФонаРасширенногоПредставленияЗначения</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">Style.ирОсновной</xr:item>
-				<xr:item xsi:type="xr:MDObjectRef">CommonModule.ирСервер</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">e3c2c9e1-a519-4acd-bc0a-d2f23b90ebd5</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">624379b5-e1ad-465f-bcbc-f77d62dcd1b3</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">07ec5a72-0c98-434b-9434-2726f9690519</xr:item>
 			</Content>

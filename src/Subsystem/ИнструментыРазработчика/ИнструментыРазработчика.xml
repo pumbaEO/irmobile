@@ -51,8 +51,8 @@
 				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирНовоеОкно</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">Interface.ирРазработчик</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">Role.ирРазработчик</xr:item>
-				<xr:item xsi:type="xr:MDObjectRef">CommonModule.ирОтладка</xr:item>
-				<xr:item xsi:type="xr:MDObjectRef">CommonModule.ирПривилегированный</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">96ec45d5-55ab-477f-9b70-ce5deb8c0244</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">4c09b85c-4566-4862-b8b9-0c21d939af9d</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">CommonForm.ирНастройкиАлгоритмов</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">Catalog.ирАлгоритмы</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">Report.ирКонсольКомпоновокДанных</xr:item>
@@ -76,7 +76,7 @@
 				<xr:item xsi:type="xr:MDObjectRef">7fef49a2-1ee8-4fe3-92ea-1cf27185f511</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирРедакторПараметровСеанса</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирПаметрСеанса82</xr:item>
-				<xr:item xsi:type="xr:MDObjectRef">CommonModule.ирКэш</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">0aafe604-39f8-4db0-bf41-5b107f99bb2e</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">Role.ирПользователь</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">Role.ирПравоАдминистрирование</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">CommonForm.ирАдминистративнаяРегистрацияCOM</xr:item>

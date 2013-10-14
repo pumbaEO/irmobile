@@ -171,12 +171,6 @@ http://devtool1c.ucoz.ru/
 			<Role>ирПравоАдминистрирование</Role>
 			<Role>ирРазработчик</Role>
 			<CommonTemplate>ирHiddenStart</CommonTemplate>
-			<CommonModule>ирГлобальный</CommonModule>
-			<CommonModule>ирКэш</CommonModule>
-			<CommonModule>ирНеглобальный</CommonModule>
-			<CommonModule>ирОтладка</CommonModule>
-			<CommonModule>ирПривилегированный</CommonModule>
-			<CommonModule>ирСервер</CommonModule>
 			<CommonCommand>ирИсследоватьИсточник</CommonCommand>
 			<CommonCommand>ирОбработатьОбъекты</CommonCommand>
 			<CommonCommand>ирОбъединитьСсылки</CommonCommand>
@@ -227,6 +221,12 @@ http://devtool1c.ucoz.ru/
 			<DataProcessor>ирМобильные</DataProcessor>
 			<DataProcessor>ОбработкаВыгрузкиИрАлгоритмов</DataProcessor>
 			<DataProcessor>ирАлгоритмы</DataProcessor>
+			<DataProcessor>ирГлобальный</DataProcessor>
+			<DataProcessor>ирКЭШ</DataProcessor>
+			<DataProcessor>ирНеГлобальный</DataProcessor>
+			<DataProcessor>ирОтладка</DataProcessor>
+			<DataProcessor>ирПривилегированный</DataProcessor>
+			<DataProcessor>ирСервер</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
