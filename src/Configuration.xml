@@ -210,7 +210,7 @@ http://devtool1c.ucoz.ru/
 			<DataProcessor>ирКонсольПостроителейОтчетов</DataProcessor>
 			<DataProcessor>ирМенеджерИнтерфейсов</DataProcessor>
 			<DataProcessor>ирМенеджерТабличногоПоля</DataProcessor>
-			<DataProcessor>ирНастройкаЖурналаРегистрации</DataProcessor>
+			<DataProcessor>ирНастройкаТехножурнала1</DataProcessor>
 			<DataProcessor>ирНастройкаТехножурнала</DataProcessor>
 			<DataProcessor>ирПлатформа</DataProcessor>
 			<DataProcessor>ирПодборИОбработкаОбъектов</DataProcessor>
@@ -224,6 +224,9 @@ http://devtool1c.ucoz.ru/
 			<DataProcessor>ирРедакторПользователей</DataProcessor>
 			<DataProcessor>ирСинтаксПомощник</DataProcessor>
 			<DataProcessor>ирТестированиеМетаданных</DataProcessor>
+			<DataProcessor>ирМобильные</DataProcessor>
+			<DataProcessor>ОбработкаВыгрузкиИрАлгоритмов</DataProcessor>
+			<DataProcessor>ирАлгоритмы</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

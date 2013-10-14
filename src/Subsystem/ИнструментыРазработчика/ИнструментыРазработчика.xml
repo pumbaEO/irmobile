@@ -156,7 +156,7 @@
 				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирНастройкаЖурналаРегистрации</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирТестированиеМетаданных</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирТестирование</xr:item>
-				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирНастройкаЖурналаРегистрации</xr:item>
+				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирНастройкаТехножурнала1</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирНастройкаТехножурнала</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">DataProcessor.ирНастройкаТехножурнала</xr:item>
 				<xr:item xsi:type="xr:MDObjectRef">CommonPicture.ирЗамер</xr:item>

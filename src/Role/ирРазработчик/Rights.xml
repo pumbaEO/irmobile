@@ -1988,7 +1988,7 @@
 		</right>
 	</object>
 	<object>
-		<name>DataProcessor.ирНастройкаЖурналаРегистрации</name>
+		<name>DataProcessor.ирНастройкаТехножурнала1</name>
 		<right>
 			<name>Use</name>
 			<value>true</value>

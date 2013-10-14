@@ -90,80 +90,9 @@
 {1,0}
 },8,2,0,0,1,1,
 {5,698e96e0-d5f2-4608-af7c-f43d88fd0397,28,1,6,
-{6,cae11b19-af38-4ffd-ac57-5f5ef09d173e,1,e1692cc2-605b-4535-84dd-28440238746c,
-{3,"КоманднаяПанель1ЗаписатьКонстанты",
-{1,"КоманднаяПанель1ЗаписатьКонстанты",
-{1,1,
-{"ru","Записать константы"}
-},
-{1,1,
-{"ru","Записать константы"}
-},
-{1,1,
-{"ru","Записать константы"}
-},
-{3,0,
-{0},"",-1,-1,1,0},
-{0,0,0}
-}
-},1,
-{3,1,
-{0,894cf65b-4109-4533-a1d7-c87b1fcc80a3},"",-1,-1,1,0}
-},
-{6,f9d25e37-533c-4f0d-a8c2-6a95e5c760ac,1,e1692cc2-605b-4535-84dd-28440238746c,
-{3,"КоманднаяПанель1ЖурналРегистрации",
-{1,"КоманднаяПанель1ЖурналРегистрации",
-{1,1,
-{"ru","Журнал регистрации"}
-},
-{1,1,
-{"ru","Журнал регистрации"}
-},
-{1,1,
-{"ru","Журнал регистрации"}
-},
-{3,0,
-{0},"",-1,-1,1,0},
-{0,0,0}
-}
-},7,
-{1,1,
-{"ru","Анализ журнала регистрации по константе"}
-},
-{1,1,
-{"ru","Анализ журнала регистрации по константе"}
-},
-{3,1,
-{0,e3b995e3-23f6-4c63-8bd8-a651eeddcfc4},"",-1,-1,0,0}
-},
-{6,8e36a769-0799-45b6-8a23-03cd1da30066,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{6,8f61d517-8134-4911-9709-54a9bb0c929b,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
 {1,9d0a2e40-b978-11d4-84b6-008048da06df,0},0},
-{6,efd6b853-a807-4497-9b1c-3d4e103660b7,1,e1692cc2-605b-4535-84dd-28440238746c,
-{3,"КоманднаяПанель1ОПодсистеме",
-{1,"КоманднаяПанель1ОПодсистеме",
-{1,2,
-{"ru","О подсистеме"},
-{"en","О подсистеме"}
-},
-{1,2,
-{"ru","О подсистеме"},
-{"en","О подсистеме"}
-},
-{1,2,
-{"ru","О подсистеме"},
-{"en","О подсистеме"}
-},
-{3,0,
-{0},"",-1,-1,1,0},
-{0,0,0}
-}
-},1,
-{3,1,
-{0,f4bd79b3-3b25-494b-99c4-74b39341e007},"",-1,-1,0,0}
-},
-{6,300dda6e-c4f2-47a6-a517-ebdd127702cf,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
-{1,9d0a2e40-b978-11d4-84b6-008048da06df,0},0},
-{6,61a46a66-9937-4d64-9a99-35ad040e71a0,1,e1692cc2-605b-4535-84dd-28440238746c,
+{6,f6623c38-e755-4415-bde6-6e9792c01ff1,1,e1692cc2-605b-4535-84dd-28440238746c,
 {3,"КоманднаяПанель1Перечиать",
 {1,"КоманднаяПанель1Перечиать",
 {1,1,
@@ -188,29 +117,124 @@
 },
 {3,1,
 {0,fc4f29e0-d168-4fe0-8e64-e982fabf2595},"",-1,-1,1,0}
+},
+{6,4b8a01d7-091a-4fb9-80d7-df8931179db0,1,abde0c9a-18a6-4e0c-bbaa-af26b911b3e6,
+{1,9d0a2e40-b978-11d4-84b6-008048da06df,0},0},
+{6,263f2ec3-9cfb-428c-93d1-5915a8108564,1,e1692cc2-605b-4535-84dd-28440238746c,
+{3,"КоманднаяПанель1ЗаписатьКонстанты",
+{1,"КоманднаяПанель1ЗаписатьКонстанты",
+{1,1,
+{"ru","Записать константы"}
+},
+{1,1,
+{"ru","Записать константы"}
+},
+{1,1,
+{"ru","Записать константы"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
 },1,
-{5,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,4,0,6,cae11b19-af38-4ffd-ac57-5f5ef09d173e,
+{3,1,
+{0,894cf65b-4109-4533-a1d7-c87b1fcc80a3},"",-1,-1,1,0}
+},
+{6,d8c12b54-320f-45aa-a588-99470d7c2ceb,1,e1692cc2-605b-4535-84dd-28440238746c,
+{3,"КоманднаяПанель1ОПодсистеме",
+{1,"КоманднаяПанель1ОПодсистеме",
+{1,2,
+{"ru","О подсистеме"},
+{"en","О подсистеме"}
+},
+{1,2,
+{"ru","О подсистеме"},
+{"en","О подсистеме"}
+},
+{1,2,
+{"ru","О подсистеме"},
+{"en","О подсистеме"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},1,
+{3,3,
+{0},"",-1,-1,0,
+{
+{#base64:iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2Fy
+ZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAApBJREFUeNqkUs9PE0EUftPdttvttqVV
+W6gEf4ClBpuKGmM8EI1GOTQSPfoXGOViohdvJt5JMHrxoIkXbwRU8GgkGMPBiJVG
+KEqElgplodt2d9vu7K4z25baM5N8+97Oe983b948ZJom7Gex1if2DgDZAGwM+UOd
+gFCCOOcJuht5GYJ5ME2SaP4FQyfGAJxM1AX+W8O8i7137nR3f6T3YEhwO920wHK5
+Ki/9yl/6+j07oqjaM5L3oa2CJjng4x7dSsQGDd0QNnN52GzFvJFjAW/v0UDX1Myi
+b7egQFOkIWB28RwzOjJ8crAolQRJKsL7p7G20h6OpSErOoRrl/sGp6Z/jKoVfYFs
+52xW1NAT8VNd/cViSZBlBWhjx1+nLMzM5qyU6BEH0FhVVYVIb6CfcvYqMHV8Idwp
+hKRCce/EyU+yRRiKixDkNyC9UoBUSgKGZcDn84coh6S9qF/BwN2MDXhd1wFjHaRi
+GRS1AmejHNy+7ofUqgITHxWwsU6gj65pmKecVg8MjDDGSK1ikEoVMAwEiGHh8Z0e
+K/zk1SawTmGvOgOxiHJaAjrOiDuqItcYgXG4gWkk3njwx7IO3t/WUK1SUyiH+o0m
+4vn1NXGL473g4DwWEBmsuZdnLFC/uU9REEt5ymkJ6HhyfXk1TWqT7ZwX7E4PsA6+
+Na7Ep3sUWAN5ez2zTDmtK5hGrqYq48nZWd/A0NWYy9PhZjkBroz+tsKeQ8ctq0i7
+8tKXuSSuKONk7HPtk2ga00o+i769fXM/HI2fCPYNHPAFI646cUfdWlkUN34upLVa
+dQxx3mlodArRoWEOPyfX0MBUC2BW5DAZjJskdpGgpyG/RvCZPM0E4twbyNVB+HbQ
+s3frAvtZ/wQYAIlLIa+ciRrSAAAAAElFTkSuQmCC}
+},0}
+},
+{6,22ff72d8-b86d-48de-8aff-a51947a7b527,1,e1692cc2-605b-4535-84dd-28440238746c,
+{3,"КоманднаяПанель1ЖурналРегистрации",
+{1,"КоманднаяПанель1ЖурналРегистрации",
+{1,1,
+{"ru","Журнал регистрации"}
+},
+{1,1,
+{"ru","Журнал регистрации"}
+},
+{1,1,
+{"ru","Журнал регистрации"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},7,
+{1,1,
+{"ru","Анализ журнала регистрации по константе"}
+},
+{1,1,
+{"ru","Анализ журнала регистрации по константе"}
+},
+{3,3,
+{0},"",-1,-1,0,
+{
+{#base64:R0lGODlhEAAQADMAACH5BAkAAAkALAAAAAAQABAAg8jMADA0MGBkMJiYMGhoaKCg
+oMjIyODk4Pj8+AAAAAAAAAAAAAAAAAAAAAAAAAAAAARRMMlJq7216M03IQWChGIp
+FoYBIsdRtLDbqiHcvfMKDMIAtLsegIbgBQQCDfI4IAoCiKMSeiQakcpnjxj0AXk+
+4iFFLpNX5nTqw2672Zi4vBIBADs=}
+},0}
+},1,
+{5,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,4,0,6,263f2ec3-9cfb-428c-93d1-5915a8108564,
 {8,"ЗаписатьКонстанты",0,1,
 {1,1,
 {"ru","Записать"}
-},1,698e96e0-d5f2-4608-af7c-f43d88fd0397,4,1e2,0,3,1,0,0,0,0},300dda6e-c4f2-47a6-a517-ebdd127702cf,
+},1,698e96e0-d5f2-4608-af7c-f43d88fd0397,4,1e2,0,3,1,0,0,0,0},8f61d517-8134-4911-9709-54a9bb0c929b,
 {8,"Действие",0,1,
 {1,2,
 {"ru","Правка"},
 {"en","Правка"}
-},0,698e96e0-d5f2-4608-af7c-f43d88fd0397,25,1e2,2,0,1,0,0,0,0},61a46a66-9937-4d64-9a99-35ad040e71a0,
+},0,698e96e0-d5f2-4608-af7c-f43d88fd0397,25,1e2,2,0,1,0,0,0,0},f6623c38-e755-4415-bde6-6e9792c01ff1,
 {8,"Перечиать",0,1,
 {1,1,
 {"ru","Перечитать"}
-},1,698e96e0-d5f2-4608-af7c-f43d88fd0397,24,1e2,0,3,1,0,0,0,0},8e36a769-0799-45b6-8a23-03cd1da30066,
+},1,698e96e0-d5f2-4608-af7c-f43d88fd0397,24,1e2,0,3,1,0,0,0,0},4b8a01d7-091a-4fb9-80d7-df8931179db0,
 {8,"Разделитель7",0,2,
 {1,1,
 {"ru","Действие6"}
-},0,698e96e0-d5f2-4608-af7c-f43d88fd0397,26,1e2,2,0,1,0,0,0,0},f9d25e37-533c-4f0d-a8c2-6a95e5c760ac,
+},0,698e96e0-d5f2-4608-af7c-f43d88fd0397,26,1e2,2,0,1,0,0,0,0},22ff72d8-b86d-48de-8aff-a51947a7b527,
 {8,"ЖурналРегистрации",0,2,
 {1,1,
 {"ru","Журнал регистрации"}
-},1,698e96e0-d5f2-4608-af7c-f43d88fd0397,28,1e2,0,0,1,0,0,0,0},efd6b853-a807-4497-9b1c-3d4e103660b7,
+},1,698e96e0-d5f2-4608-af7c-f43d88fd0397,28,1e2,0,0,1,0,0,0,0},d8c12b54-320f-45aa-a588-99470d7c2ceb,
 {8,"ОПодсистеме",0,2,
 {1,1,
 {"ru","О подсистеме"}
@@ -810,7 +834,7 @@ ormwkWpFLJ8bLjIHCLcwph8=},0}
 {0}
 }
 }
-},400,300,1,0,1,4,4,105},
+},400,300,1,0,1,4,4,112},
 {
 {0},3,
 {3,
@@ -909,8 +933,14 @@ ormwkWpFLJ8bLjIHCLcwph8=},0}
 }
 },1,4,1,0,0,0,
 {0},
-{0,d4fb5140-8838-483f-9452-47ac6138c9d1},
+{-1},
 {3,0,
-{3,1,
-{0,cbe7b092-ecc4-48f2-bafc-b1c62eaa9b09},"",-1,-1,0,0}
+{3,3,
+{0},"",-1,-1,0,
+{
+{#base64:R0lGODlhEAAQADMAACH5BAEAAAAALAAAAAAQABAAowEAADOZzJnM/zNmzMnJydbW
+1jNmmf///5OTkwAAAAAAAAAAAAAAAAAAAAAAAAAAAARJEMhJaxU4axHk1kEWjGQZ
+GKPBBUPrDuqBEOXbqgFx0KSN67sBAXAzGFc5grBgQY6WTRP0IiUwqTWrBVDIXrdd
+lnY7KUzJ5a8lAgA7}
+},0}
 },1,2,0,0,1,1}

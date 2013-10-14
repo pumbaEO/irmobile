@@ -94,7 +94,7 @@
 {1,0}
 },8,2,0,0,1,1,
 {5,92c33185-55a4-499b-9546-45afdf69b6ab,20,1,1,
-{6,fbe51d6f-6d85-44a5-97ce-571c0a942e48,1,e1692cc2-605b-4535-84dd-28440238746c,
+{6,91700593-f4d4-42c7-80ad-834c58cfcd56,1,e1692cc2-605b-4535-84dd-28440238746c,
 {3,"КоманднаяПанель1КонсольЗапросов",
 {1,"КоманднаяПанель1КонсольЗапросов",
 {1,1,
@@ -117,10 +117,30 @@
 {1,1,
 {"ru","Открыть запрос в консоли запросов"}
 },
-{3,1,
-{0,783a529d-ae98-4068-8486-88ba18a9bcc4},"",2,13,1,0}
+{3,3,
+{0},"",-1,-1,0,
+{
+{#base64:Qk06AwAAAAAAADoAAAAoAAAAEAAAABAAAAABABgAAAAAAAADAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAALu7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7
+u7u7u7u7u7u7u7u7u7u7u7u7u4aGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaG
+hoaGhoaGhoaGhru7u7u7u7u7u4aGhv///////////66urv///////////66urv//
+/////////4aGhru7u7u7u7u7u4aGhuTk5K6urgAAAAAAAAAAAK6uruTk5K6uruTk
+5K6uruTk5IaGhru7u7u7u7u7u4aGhv///wAAAAAAAK6urgAAAAAAAP///66urv//
+/////zNmMzNmM4aGhoaGhoaGhoaGhuTk5K6uruTk5K6urgAAAAAAAOTk5K6uruTk
+5DNmMwD/AGbMM4aGhv///////4aGhv///////////wAAAAAAAP///////66urjNm
+MwD/AGbMM4aGhoaGhuTk5K6uroaGhuTk5AAAAAAAAK6urgAAAAAAAOTk5DNmMwD/
+AGbMM+Tk5IaGhoaGhv///////4aGhv///////wAAAAAAAAAAAP///6GhoQD/AGbM
+M////////4aGhoaGhuTk5K6uroaGhoaGhoaGhoaGhjOZ/4aGhqGhof///8nJyYaG
+hoaGhoaGhoaGhoaGhv///////4aGhv/MmTOZ///MmZOTk6Ghof///8nJyZOTk//M
+mf/Mmf/MmYaGhoaGhuTk5K6uroaGhoaGhoaGhjOZ/4aGhjOZ/8nJyYaGhoaGhoaG
+hoaGhoaGhoaGhoaGhv///////////zOZ/////////zOZ/66urv///zOZ/////4aG
+hru7u7u7u7u7u4aGhoaGhoaGhoaGhoaGhoaGhgD//4aGhgD//4aGhoaGhoaGhoaG
+hru7u7u7u7u7u4aGhszMZszMZszMZpOTkwD//8zMZszMZpOTkwD//8zMZszMZoaG
+hru7u7u7u7u7u4aGhoaGhoaGhoaGhoaGhoaGhoaGhgD//4aGhoaGhoaGhoaGhoaG
+hru7u7u7u7u7uw==}
+},0}
 },1,
-{5,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,4,0,1,fbe51d6f-6d85-44a5-97ce-571c0a942e48,
+{5,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,4,0,1,91700593-f4d4-42c7-80ad-834c58cfcd56,
 {8,"КонсольЗапросов",0,1,
 {1,1,
 {"ru","Консоль запросов"}
@@ -1059,7 +1079,7 @@
 }
 }
 }
-},572,455,1,0,1,4,4,42},
+},572,455,1,0,1,4,4,47},
 {
 {0},4,
 {3,
@@ -1142,7 +1162,7 @@
 }
 },1,4,1,0,0,0,
 {0},
-{0,d4fb5140-8838-483f-9452-47ac6138c9d1},
+{0},
 {3,0,
 {3,0,
 {0},"",-1,-1,1,0}

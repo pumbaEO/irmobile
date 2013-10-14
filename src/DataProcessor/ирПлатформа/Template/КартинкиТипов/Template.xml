@@ -407,7 +407,7 @@
 	</drawing>
 	<picture>
 		<index>0</index>
-		<picture t="false" ref="v8ui:ирЧисло"/>
+		<picture/>
 	</picture>
 	<templateMode>true</templateMode>
 	<defaultFormatIndex>7</defaultFormatIndex>

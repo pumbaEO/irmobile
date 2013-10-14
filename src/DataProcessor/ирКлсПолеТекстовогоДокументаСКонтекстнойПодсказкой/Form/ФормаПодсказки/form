@@ -135,8 +135,31 @@
 {1,0},21,1,-1,-1,-1,12590082,
 {3,0,
 {0},"",-1,-1,1,0},
-{3,1,
-{0,f1171eb7-cccb-4f55-8439-e9457d0f2404},"",-1,-1,0,0},
+{3,3,
+{0},"",-1,-1,0,
+{
+{#base64:iVBORw0KGgoAAAANSUhEUgAAATAAAAAQCAYAAACRICNxAAADlklEQVR42u2bz46j
+IBzHYY/7JuNpE5rx5Ev0PulhE032NPe+xJwmkWQOTR+lJ6eS2ZPzJntlpZYWLFhR
+/IPllzYRFPyh8PEL/oTAmzdv3hw16C+Bt0e3NEW07bFJQvyYWSLAiqKgQfDEq3Xy
+JrM2PAUBvzDQRf+DQ3AeaW75z3x/C15O2xiMCwkGsDiO7x6HMfYAG8goTaWHCIRJ
+q+sMbbrgKrguLSh/0GVVmpZNSNz0PwaIjg2uJoDd78nyAKOnnzSwYDUm5Fr5cWI/
+Y/Du4vfxeASbzcZ5oDJ4ESLnIdQOYrCdqhJvJ6VF8Q2CIIBNADMrO6yiEjsL60Df
+RaH0oQ4w0/KDKSoRSiWkikhz/hrAjMsPpKpEMDFQvRb7m/PXAWZSdiiAUapWZRDi
+0r/Imh+srS9vBylv/xoBnidui/uXDDAOMZ2x41erhMNFflJcIaNTVap8sQ5oWLa/
+chLTHDA6RdWULz5BTcv3Uk7i9eeA0SmqpvyLQADm5XuoJzHNIaNTVap8sQ62z6Ts
+kACDWD4VjekwADv8kwEV/QQ8T9wW9y8dYE1GygJJgkWAyUrJHEK6OswAlmUZDcNn
+zb5PEIbhXaDwdBeAqeoxARjz/zkMlf5/ZpnS/xug8HQXgKnqMQDY6fr/Vfuf/VL7
+z6CS0lyYXK2MIVTP6wow5v9H+Ee573f2rvTfrgKjmumgvs/bmkKmeXVuzGlwgUK1
+QfD9KVnvOuj5IUoq+YTIVTFVT6fbe7cogOk7gL4jzAlgdTWomLPPGmB1NXi79ANm
+DbC6GqybqmwjwBTdfK5TSAYfHXjyOCkHfQWVVcOLiKY6WgNMB69HAJhXYF6Bua3A
+pptCopI+OngBVCUZxDA+KSyl77o6WgMsrx4gSng9hgLrtgY2F4B1XgObiwLruAY2
+F4DZWAMT4aXu5V2mkPpZxNBvIfOyfagkCoMXAwU+gWw+4SCWAGZjEX86gNlaxJ8M
+YLYW8ScCmI1F/DkCbDQFNuBbyPwcqEvI+Q8WCbBbqPQJhRgzjEIHlL5hEKOFUWiA
+0jcMYqwwCh1U+oRCTBVGcXn7WEKq2T+33kLGCFHOiO12C9br9fIB5or5ANRpbcog
+VJsAE0dAnieKQYNAFO0vaRFgTS9vYIt4yyGnkPO//jElhgT7+vrB2g8X8VmEB5gH
+mC0FRsgVXAil0nFDfUq02+1o17JLAFgf8991eXt48x9ze4B58+bN2+j2HyIsTk2U
+7a3qAAAAAElFTkSuQmCC}
+},0},
 {3,0,
 {0},"",-1,-1,1,0},16,16,d2314b5d-8da4-4e0f-822b-45e7500eae09,
 {3,4,
@@ -738,7 +761,7 @@ AAAAAAAABQAAAC4BAAAAAAUAAAACAQEAAAAEAAAAJwH//wMAAAAAAA==},
 {1,0}
 },8,2,0,0,1,1,
 {5,b8c47926-e51c-4e66-8036-2e9d63d5f913,53,1,3,
-{6,a02d09ef-8fc7-46df-a5fe-5d5a982a788b,1,e1692cc2-605b-4535-84dd-28440238746c,
+{6,99ceb301-eee0-4026-83d3-4d8fdd9956c0,1,e1692cc2-605b-4535-84dd-28440238746c,
 {3,"ДействияФормыНеМетоды",
 {1,"ДействияФормыНеМетоды",
 {1,1,
@@ -795,64 +818,7 @@ tLS0tLTX17S0tLS0tLS0tLS0tLS019fX19fX19fX19fX19fX19c=}
 },0},
 {0,49,8}
 },
-{6,73d56d8a-6189-48ef-a657-0768af0dca2d,1,e1692cc2-605b-4535-84dd-28440238746c,
-{3,"ДействияФормыНеКлючевыеСлова",
-{1,"ДействияФормыНеКлючевыеСлова",
-{1,1,
-{"ru","Действия формы не ключевые слова"}
-},
-{1,1,
-{"ru","Действия формы не ключевые слова"}
-},
-{1,1,
-{"ru","Действия формы не ключевые слова"}
-},
-{3,0,
-{0},"",-1,-1,1,0},
-{0,0,0}
-}
-},15,
-{1,1,
-{"ru","Не ключевые слова"}
-},
-{1,1,
-{"ru","Не ключевые слова"}
-},
-{3,3,
-{0},"",-1,-1,1,
-{
-{#base64:Qk02BQAAAAAAADYEAAAoAAAAEAAAABAAAAABAAgAAAAAAAABAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAADMAAABmAAAAmQAAAMwAAAD/AAAAADMAADMzAABmMwAAmTMAAMwz
-AAD/MwAAAGYAADNmAABmZgAAmWYAAMxmAAD/ZgAAAJkAADOZAABmmQAAmZkAAMyZ
-AAD/mQAAAMwAADPMAABmzAAAmcwAAMzMAAD/zAAAAP8AADP/AABm/wAAmf8AAMz/
-AAD//wAAAAAzADMAMwBmADMAmQAzAMwAMwD/ADMAADMzADMzMwBmMzMAmTMzAMwz
-MwD/MzMAAGYzADNmMwBmZjMAmWYzAMxmMwD/ZjMAAJkzADOZMwBmmTMAmZkzAMyZ
-MwD/mTMAAMwzADPMMwBmzDMAmcwzAMzMMwD/zDMAAP8zADP/MwBm/zMAmf8zAMz/
-MwD//zMAAABmADMAZgBmAGYAmQBmAMwAZgD/AGYAADNmADMzZgBmM2YAmTNmAMwz
-ZgD/M2YAAGZmADNmZgBmZmYAmWZmAMxmZgD/ZmYAAJlmADOZZgBmmWYAmZlmAMyZ
-ZgD/mWYAAMxmADPMZgBmzGYAmcxmAMzMZgD/zGYAAP9mADP/ZgBm/2YAmf9mAMz/
-ZgD//2YAAACZADMAmQBmAJkAmQCZAMwAmQD/AJkAADOZADMzmQBmM5kAmTOZAMwz
-mQD/M5kAAGaZADNmmQBmZpkAmWaZAMxmmQD/ZpkAAJmZADOZmQBmmZkAmZmZAMyZ
-mQD/mZkAAMyZADPMmQBmzJkAmcyZAMzMmQD/zJkAAP+ZADP/mQBm/5kAmf+ZAMz/
-mQD//5kAAADMADMAzABmAMwAmQDMAMwAzAD/AMwAADPMADMzzABmM8wAmTPMAMwz
-zAD/M8wAAGbMADNmzABmZswAmWbMAMxmzAD/ZswAAJnMADOZzABmmcwAmZnMAMyZ
-zAD/mcwAAMzMADPMzABmzMwAmczMAMzMzAD/zMwAAP/MADP/zABm/8wAmf/MAMz/
-zAD//8wAAAD/ADMA/wBmAP8AmQD/AMwA/wD/AP8AADP/ADMz/wBmM/8AmTP/AMwz
-/wD/M/8AAGb/ADNm/wBmZv8AmWb/AMxm/wD/Zv8AAJn/ADOZ/wBmmf8AmZn/AMyZ
-/wD/mf8AAMz/ADPM/wBmzP8Amcz/AMzM/wD/zP8AAP//ADP//wBm//8Amf//AMz/
-/wD///8AAAAAAA0NDQAaGhoAKCgoADU1NQBDQ0MAUFBQAF1dXQBra2sAeHh4AIaG
-hgCTk5MAoaGhAK6urgC7u7sAycnJANbW1gDk5OQA8fHxAP///wAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAANfX19fX19fX19fX19fX19fX19fX19fX19fX
-19fX19fX19cAAAAAAAAA19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX
-19fX19fX19fX1wAAAAAAAAAAANfX19fX19fX19fX19fX19fX19fX19fX19fX19fX
-19fX19fX19fX1wAAAAAAANfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX
-19fX19fX19cAAAAA1wAAAADXAADX19fX19fX19fX19fX19fX19fXtLS0tLS0tLS0
-tLS0tLTX17S0tLS0tLS0tLS0tLS019fX19fX19fX19fX19fX19c=}
-},0},
-{0,51,8}
-},
-{6,032d09fe-564a-45a7-9969-adf2510fe2e6,1,e1692cc2-605b-4535-84dd-28440238746c,
+{6,93201e61-0b5d-42f0-a5d3-51d77a685604,1,e1692cc2-605b-4535-84dd-28440238746c,
 {3,"ДействияФормыНеСвойства",
 {1,"ДействияФормыНеСвойства",
 {1,1,
@@ -908,16 +874,73 @@ AADX19fX19fX1+cAAAAAAADn19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX
 tLS0tLTX17S0tLS0tLS0tLS0tLS019fX19fX19fX19fX19fX19c=}
 },0},
 {0,50,8}
+},
+{6,73667188-3ef2-498b-8ca6-82ced0e8d404,1,e1692cc2-605b-4535-84dd-28440238746c,
+{3,"ДействияФормыНеКлючевыеСлова",
+{1,"ДействияФормыНеКлючевыеСлова",
+{1,1,
+{"ru","Действия формы не ключевые слова"}
+},
+{1,1,
+{"ru","Действия формы не ключевые слова"}
+},
+{1,1,
+{"ru","Действия формы не ключевые слова"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},15,
+{1,1,
+{"ru","Не ключевые слова"}
+},
+{1,1,
+{"ru","Не ключевые слова"}
+},
+{3,3,
+{0},"",-1,-1,1,
+{
+{#base64:Qk02BQAAAAAAADYEAAAoAAAAEAAAABAAAAABAAgAAAAAAAABAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAADMAAABmAAAAmQAAAMwAAAD/AAAAADMAADMzAABmMwAAmTMAAMwz
+AAD/MwAAAGYAADNmAABmZgAAmWYAAMxmAAD/ZgAAAJkAADOZAABmmQAAmZkAAMyZ
+AAD/mQAAAMwAADPMAABmzAAAmcwAAMzMAAD/zAAAAP8AADP/AABm/wAAmf8AAMz/
+AAD//wAAAAAzADMAMwBmADMAmQAzAMwAMwD/ADMAADMzADMzMwBmMzMAmTMzAMwz
+MwD/MzMAAGYzADNmMwBmZjMAmWYzAMxmMwD/ZjMAAJkzADOZMwBmmTMAmZkzAMyZ
+MwD/mTMAAMwzADPMMwBmzDMAmcwzAMzMMwD/zDMAAP8zADP/MwBm/zMAmf8zAMz/
+MwD//zMAAABmADMAZgBmAGYAmQBmAMwAZgD/AGYAADNmADMzZgBmM2YAmTNmAMwz
+ZgD/M2YAAGZmADNmZgBmZmYAmWZmAMxmZgD/ZmYAAJlmADOZZgBmmWYAmZlmAMyZ
+ZgD/mWYAAMxmADPMZgBmzGYAmcxmAMzMZgD/zGYAAP9mADP/ZgBm/2YAmf9mAMz/
+ZgD//2YAAACZADMAmQBmAJkAmQCZAMwAmQD/AJkAADOZADMzmQBmM5kAmTOZAMwz
+mQD/M5kAAGaZADNmmQBmZpkAmWaZAMxmmQD/ZpkAAJmZADOZmQBmmZkAmZmZAMyZ
+mQD/mZkAAMyZADPMmQBmzJkAmcyZAMzMmQD/zJkAAP+ZADP/mQBm/5kAmf+ZAMz/
+mQD//5kAAADMADMAzABmAMwAmQDMAMwAzAD/AMwAADPMADMzzABmM8wAmTPMAMwz
+zAD/M8wAAGbMADNmzABmZswAmWbMAMxmzAD/ZswAAJnMADOZzABmmcwAmZnMAMyZ
+zAD/mcwAAMzMADPMzABmzMwAmczMAMzMzAD/zMwAAP/MADP/zABm/8wAmf/MAMz/
+zAD//8wAAAD/ADMA/wBmAP8AmQD/AMwA/wD/AP8AADP/ADMz/wBmM/8AmTP/AMwz
+/wD/M/8AAGb/ADNm/wBmZv8AmWb/AMxm/wD/Zv8AAJn/ADOZ/wBmmf8AmZn/AMyZ
+/wD/mf8AAMz/ADPM/wBmzP8Amcz/AMzM/wD/zP8AAP//ADP//wBm//8Amf//AMz/
+/wD///8AAAAAAA0NDQAaGhoAKCgoADU1NQBDQ0MAUFBQAF1dXQBra2sAeHh4AIaG
+hgCTk5MAoaGhAK6urgC7u7sAycnJANbW1gDk5OQA8fHxAP///wAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAANfX19fX19fX19fX19fX19fX19fX19fX19fX
+19fX19fX19cAAAAAAAAA19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX
+19fX19fX19fX1wAAAAAAAAAAANfX19fX19fX19fX19fX19fX19fX19fX19fX19fX
+19fX19fX19fX1wAAAAAAANfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX
+19fX19fX19cAAAAA1wAAAADXAADX19fX19fX19fX19fX19fX19fXtLS0tLS0tLS0
+tLS0tLTX17S0tLS0tLS0tLS0tLS019fX19fX19fX19fX19fX19c=}
+},0},
+{0,51,8}
 },1,
-{5,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,4,0,3,a02d09ef-8fc7-46df-a5fe-5d5a982a788b,
+{5,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,4,0,3,99ceb301-eee0-4026-83d3-4d8fdd9956c0,
 {8,"НеМетоды",0,1,
 {1,1,
 {"ru","Не методы"}
-},1,b8c47926-e51c-4e66-8036-2e9d63d5f913,34,1e2,0,0,1,0,0,0,0},032d09fe-564a-45a7-9969-adf2510fe2e6,
+},1,b8c47926-e51c-4e66-8036-2e9d63d5f913,34,1e2,0,0,1,0,0,0,0},93201e61-0b5d-42f0-a5d3-51d77a685604,
 {8,"НеСвойства",0,1,
 {1,1,
 {"ru","Не Свойства"}
-},1,b8c47926-e51c-4e66-8036-2e9d63d5f913,35,1e2,0,0,1,0,0,0,0},73d56d8a-6189-48ef-a657-0768af0dca2d,
+},1,b8c47926-e51c-4e66-8036-2e9d63d5f913,35,1e2,0,0,1,0,0,0,0},73667188-3ef2-498b-8ca6-82ced0e8d404,
 {8,"НеКлючевыеСлова",0,1,
 {1,1,
 {"ru","Не ключевые слова"}
@@ -1069,34 +1092,7 @@ tLS0tLTX17S0tLS0tLS0tLS0tLS019fX19fX19fX19fX19fX19c=}
 {1,0}
 },8,2,0,0,1,1,
 {5,72cd957b-a283-468d-9e52-3f9b8ffd64d7,8,1,2,
-{6,c207531b-20b5-41b5-9331-c15ca695aea9,1,e1692cc2-605b-4535-84dd-28440238746c,
-{3,"КоманднаяПанельФормыКонтекстнаяСправка",
-{1,"КоманднаяПанельФормыКонтекстнаяСправка",
-{1,1,
-{"ru","Контекстная справка"}
-},
-{1,1,
-{"ru","Контекстная справка"}
-},
-{1,1,
-{"ru","Контекстная справка"}
-},
-{3,0,
-{0},"",-1,-1,1,0},
-{0,0,0}
-}
-},15,
-{1,1,
-{"ru","Контекстная справка"}
-},
-{1,1,
-{"ru","Контекстная справка"}
-},
-{3,1,
-{0,b7c81c62-d6ad-4eae-9cea-0e203182db67},"",-1,-1,1,0},
-{0,112,8}
-},
-{6,f80201cb-e30b-460e-b048-f3913d1e04e0,1,e1692cc2-605b-4535-84dd-28440238746c,
+{6,0715a26a-8d51-43fa-b232-4f027755f198,1,e1692cc2-605b-4535-84dd-28440238746c,
 {3,"КоманднаяПанельФормыВнутрь",
 {1,"КоманднаяПанельФормыВнутрь",
 {1,1,
@@ -1122,12 +1118,39 @@ tLS0tLTX17S0tLS0tLS0tLS0tLS019fX19fX19fX19fX19fX19c=}
 {3,1,
 {-9},"",-1,-1,1,0},
 {0,0,0}
+},
+{6,b575a2af-54be-4798-ae91-15a2af824abd,1,e1692cc2-605b-4535-84dd-28440238746c,
+{3,"КоманднаяПанельФормыКонтекстнаяСправка",
+{1,"КоманднаяПанельФормыКонтекстнаяСправка",
+{1,1,
+{"ru","Контекстная справка"}
+},
+{1,1,
+{"ru","Контекстная справка"}
+},
+{1,1,
+{"ru","Контекстная справка"}
+},
+{3,0,
+{0},"",-1,-1,1,0},
+{0,0,0}
+}
+},15,
+{1,1,
+{"ru","Контекстная справка"}
+},
+{1,1,
+{"ru","Контекстная справка"}
+},
+{3,1,
+{0,b7c81c62-d6ad-4eae-9cea-0e203182db67},"",-1,-1,1,0},
+{0,112,8}
 },1,
-{5,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,4,0,2,f80201cb-e30b-460e-b048-f3913d1e04e0,
+{5,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,4,0,2,0715a26a-8d51-43fa-b232-4f027755f198,
 {8,"Внутрь",0,1,
 {1,1,
 {"ru","Внутрь"}
-},1,72cd957b-a283-468d-9e52-3f9b8ffd64d7,7,1e2,0,0,1,0,0,0,0},c207531b-20b5-41b5-9331-c15ca695aea9,
+},1,72cd957b-a283-468d-9e52-3f9b8ffd64d7,7,1e2,0,0,1,0,0,0,0},b575a2af-54be-4798-ae91-15a2af824abd,
 {8,"КонтекстнаяСправка",0,1,
 {1,1,
 {"ru","Справка"}
@@ -1458,7 +1481,7 @@ AAAAAAAABQAAAC4BAAAAAAUAAAACAQEAAAAEAAAAJwH//wMAAAAAAA==},
 {0}
 }
 }
-},303,292,1,0,1,4,4,471},
+},303,292,1,0,1,4,4,495},
 {
 {12},20,
 {5,
@@ -1493,7 +1516,7 @@ AAAAAAAABQAAAC4BAAAAAAUAAAACAQEAAAAEAAAAJwH//wMAAAAAAA==},
 }
 }
 },
-{4,
+{3,
 {4,
 {2,
 {12},
@@ -1508,15 +1531,6 @@ AAAAAAAABQAAAC4BAAAAAAUAAAACAQEAAAAEAAAAJwH//wMAAAAAAA==},
 {24,
 {1,
 {8}
-}
-},
-{31,
-{5,
-{-2},
-{4},
-{-65000},
-{0,89f7b11b-6296-4ef9-adf4-d18d4bced198},
-{-2}
 }
 }
 }
@@ -1565,7 +1579,7 @@ AAAAAAAABQAAAC4BAAAAAAUAAAACAQEAAAAEAAAAJwH//wMAAAAAAA==},
 }
 },1,4,1,0,0,0,
 {1,4,28,b78f2e80-ec68-11d4-9dcf-0050bae2bc79,4,1},
-{0,d4fb5140-8838-483f-9452-47ac6138c9d1},
+{-1},
 {3,0,
 {3,0,
 {0},"",-1,-1,1,0}
